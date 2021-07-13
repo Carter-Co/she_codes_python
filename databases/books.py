@@ -41,3 +41,5 @@ rows = cursor.execute("""
 for row in rows: 
     print(row)
 connection.close()
+
+#schema - blueprint
